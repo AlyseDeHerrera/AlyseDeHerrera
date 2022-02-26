@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlyseDeHerrera
-- 👀 I’m interested in all things data and baking yummy sweets!
-- 🌱 I’m currently learning data science and analytics through a bootcamp (Long Beach) and IBM certificate
+- 👀 I’m interested in learning new ways to better myself and baking yummy sweets!
+- 🌱 I’m currently learning data science priciples and analytics through certifications and courses.
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: ardeherrera6@gmail.com
 
